@@ -6,8 +6,11 @@ Navigate to the required domain from options given below to find the students wi
 
 | Sr. No. | Name | Top Skill | Project | Secondary Skill | Project | Profiles |
 | --- | ---| --- | --- | --- | --- | --- |
-| 1 | Tejas Morkar | Machine Learning | [Sketc-to-Color](https://tejasmorkar.tech/sketch-to-color) | Web Development | [LoGeek Solutions](https://logeeksolutions.surge.sh) | [GitHub](https://github.com/tejasmorkar), [LinkedIn](https://linkedin.com/in/tejasmorkar) |
-|  |  |  |  |  |  |  |
+| 1 | Tejas Morkar | Machine Learning | [Link](https://tejasmorkar.tech/sketch-to-color) | Web Development | [Link](https://logeeksolutions.surge.sh) | [GitHub](https://github.com/tejasmorkar), [LinkedIn](https://linkedin.com/in/tejasmorkar) |
+| 2 | Suyash Sonawane | Machine Learning | [Link](https://youtu.be/1P_GYSFTXnc) | Web Development | [Link](https://punebusinessschool.com/) | [GitHub](https://github.com/SuyashSonawane), [LinkedIn](https://linkedin.com/in/suyash-sonawane-44661417b/) |
+| 3 | Vinit Hande | Machine Learning | [Link](https://youtu.be/f8qoNdx9fYs) | Software Development | [Link](https://github.com/vinithande123/Lab-Management-System-Pathology-.git) | [GitHub]([vinithande123](https://github.com/vinithande123)), [LinkedIn](https://www.linkedin.com/in/vinit-hande-90602217b) |
+| 4 | Aditya Mahajan | Machine Learning | [Link](https://youtu.be/uextIyx7sO4) | Web Development | [Link](http://campusmate.adityamahajan.tech/) | [GitHub](https://github.com/adityamahajan-io), [LinkedIn](https://www.linkedin.com/in/adityamahahajan/) |
+<!-- |  |  |  | [Link]() |  | [Link]() | [GitHub](), [LinkedIn]() | -->
 
 ## Contact
 

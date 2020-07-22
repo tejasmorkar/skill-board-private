@@ -1,1 +1,5 @@
 theme: jekyll-theme-minimal
+title: Skill Board
+description: A listing board where students of PCCOE can showcase their skills and experience for the Faculty to easily find opportunities for them.
+logo: ./assets/logo.png
+google_analytics: UA-155126859-2

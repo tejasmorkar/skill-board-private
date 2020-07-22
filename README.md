@@ -1,20 +1,20 @@
-# About Skill Board
+# Skill Board - PCCOE
 
 Navigate to the required domain from options given below to find the students with that knowledge base and have a look at their skills and accomplishments.
 
 ## Domains
 
-### [Machine Learning](./pages/ml)
+### [Machine Learning](./pages/ml/)
 
-### [Web Development](./pages/wd)
+### [Web Development](./pages/wd/)
 
-### [Android Development](./pages/ad)
+### [Android Development](./pages/ad/)
 
-### [Software Development](./pages/sd)
+### [Software Development](./pages/sd/)
 
-### [IOT](./pages/iot)
+### [IOT](./pages/iot/)
 
-### [Cyber Security](./pages/cs)
+### [Cyber Security](./pages/cs/)
 
 ## Contact
 

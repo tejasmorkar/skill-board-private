@@ -4,10 +4,10 @@ Navigate to the required domain from options given below to find the students wi
 
 ## TE Computer 2020-21
 
-| Sr. No. | Name | Top Skill | 2nd Top Skill | Profiles | Projects |
-| --- | ---| --- | --- | --- | --- |
-| 1 | Tejas Morkar | Machine Learning | Web Development | [GitHub](https://github.com/tejasmorkar), [LinkedIn](https://linkedin.com/in/tejasmorkar) | [Sketc-to-Color](https://tejasmorkar.tech/sketch-to-color) |
-|  |  |  |  |  |  |
+| Sr. No. | Name | Top Skill | Project | Secondary Skill | Project | Profiles |
+| --- | ---| --- | --- | --- | --- | --- |
+| 1 | Tejas Morkar | Machine Learning | [Sketc-to-Color](https://tejasmorkar.tech/sketch-to-color) | Web Development | [LoGeek Solutions](https://logeeksolutions.surge.sh) | [GitHub](https://github.com/tejasmorkar), [LinkedIn](https://linkedin.com/in/tejasmorkar) |
+|  |  |  |  |  |  |  |
 
 ## Contact
 

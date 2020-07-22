@@ -12,7 +12,13 @@ Navigate to the required domain from options given below to find the students wi
 | 4 | Aditya Mahajan | Machine Learning | [Link](https://youtu.be/uextIyx7sO4) | Web Development | [Link](http://campusmate.adityamahajan.tech/) | [GitHub](https://github.com/adityamahajan-io), [LinkedIn](https://www.linkedin.com/in/adityamahahajan/) |
 | 5 | Harish Dalal | Web Development | [Link](https://inmyonion.web.app) | Android Development | [Link](https://play.google.com/store/apps/developer?id=zybnet) | [GitHub](https://github.com/harish-dalal), [LinkedIn](https://www.linkedin.com/in/harish-dalal136) |
 | 6 | Aditya Dawadikar | Web Development | [Link](https://github.com/Aditya-Dawadikar/Kanban-angular) |  |  | [GitHub](https://github.com/aditya-dawadikar), [LinkedIn](https://www.linkedin.com/in/aditya-dawadikar/) |
-<!-- |  |  |  | [Link]() |  | [Link]() | [GitHub](), [LinkedIn]() | -->
+| 7 | Shrishail kumbhar | Web Development | [Link](https://rocky-cove-22692.herokuapp.com/) |  |  | [GitHub](https://github.com/shrishail735), [LinkedIn](https://www.linkedin.com/in/shrishail-kumbhar-554907190) |
+| 8 | Harshwardhan Chougule | Web Development | [Link](https://harshc45.github.io/Covid-19_Tracker/) |  |  | [GitHub](https://github.com/harshc45), [LinkedIn](https://www.linkedin.com/in/harshwardhan-chougule-0bb0a31a6) |
+| 9 | Nupur Shiturkar | Web Development | [Link](https://nupur-shiturkar.github.io/Portfolio-AnuradhaThakare/) |  |  | [GitHub](https://github.com/nupur-shiturkar), [LinkedIn](https://www.linkedin.com/in/nupur-shiturkar-232722194/) |
+| 10 | Pawan Nirpal | Machine Learning | [Link](https://github.com/pawan-nirpal-031/DeepLearning) | Web Development | [Link](https://github.com/pawan-nirpal-031/WebDev/tree/Hello-World) | [GitHub](https://github.com/pawan-nirpal-031), [LinkedIn](https://www.linkedin.com/in/pawan-nirpal-0a5277167/) |
+| 11 | Jayesh Shelar | Machine Learning | [Link](Github Link: https://github.com/JayeshShelar/Covid-19_Detector) | Web Development | [Link](https://github.com/JayeshShelar/SIH_DataSyncWebsite) | [GitHub](https://github.com/JayeshShelar), [LinkedIn](https://www.linkedin.com/in/jayesh-shelar/) |
+| 12 | Tanishka Badhe | Web Development | [Link](https://immense-beach-07404.herokuapp.com/) | Machine Learning | [Link](https://github.com/tanishka2708/spam-detection-using-ML-and-natural-language-processing) | [GitHub](https://github.com/tanishka2708), [LinkedIn](https://www.linkedin.com/in/tanishka-badhe-359140198) |
+| 13 | Mayank Pachpande | Web Development | [Link](https://github.com/Mayank-MP05/Team_Automatons_website) | Machine Learning | [Link](https://github.com/Mayank-MP05/Marathi-Letter-Recognition-ConvNet) | [GitHub](https://github.com/Mayank-MP05), [LinkedIn](https://www.linkedin.com/in/mayank-pachpande-117823169) |
 
 ## Contact
 

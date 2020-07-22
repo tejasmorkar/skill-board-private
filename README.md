@@ -2,19 +2,12 @@
 
 Navigate to the required domain from options given below to find the students with that knowledge base and have a look at their skills and accomplishments.
 
-## Domains
+## TE Computer 2020-21
 
-### [Machine Learning](./pages/ml/)
-
-### [Web Development](./pages/wd/)
-
-### [Android Development](./pages/ad/)
-
-### [Software Development](./pages/sd/)
-
-### [IOT](./pages/iot/)
-
-### [Cyber Security](./pages/cs/)
+| Sr. No. | Name | Top Skill | 2nd Top Skill | Profiles | Projects |
+| --- | ---| --- | --- | --- | --- |
+| 1 | Tejas Morkar | Machine Learning | Web Development | [GitHub](https://github.com/tejasmorkar), [LinkedIn](https://linkedin.com/in/tejasmorkar) | [Sketc-to-Color](https://tejasmorkar.tech/sketch-to-color) |
+|  |  |  |  |  |  |
 
 ## Contact
 
